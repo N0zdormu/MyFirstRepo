@@ -12,6 +12,8 @@ namespace FirstRepoExample
         {
             Console.WriteLine("Cuz iM  the bad guy ");
             Console.WriteLine("Who makes fun of people");
+            Console.WriteLine("Damn");
+
         }
     }
 }
